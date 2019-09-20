@@ -29,7 +29,7 @@ Please answer the below questions:
 (Your response here)
 
 ---
-4. **Global Climate Strike**: Today (Friday 20th September 2019), communities across the world are observing an awareness in global climate change. During demonstrations, people are demanding an end to the age of fossil fuels in effort to save the planet from pollution and rising temperatures. If you can, please suggest three (3) things that you could do to reduce your carbon footprint.
+4. **Global Climate Strike**: Today (Friday 20th September 2019), communities across the world are observing an awareness in global climate change. During demonstrations, people are demanding an end to the age of fossil fuels in effort to save the planet from pollution and rising temperatures. If you can, please suggest two (2) ways that you can make your encoder and decoder programs able to use less time and, hence, less electricity, when running.
 
 Reference: [Global Climate Strike](https://globalclimatestrike.net)
 
