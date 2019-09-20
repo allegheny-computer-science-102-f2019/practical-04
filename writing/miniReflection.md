@@ -12,7 +12,7 @@ Please answer the below questions:
 
  ---
 
-1. How are using strings to store characters similar to using ```lists``` or ```tuples``` to store characters?
+1. How is your code using strings to store characters similar to using ```lists``` or ```tuples``` to store characters?
 
 (Your response here)
 
